@@ -1,6 +1,6 @@
 # Workshop de R: Levando a Ciência de Dados para Todos
 
-Este é o repositório para os arquivos do meu workshop de iniciação ao R.
+ é o repositório para os arquivos do meu workshop de iniciação ao R.
 
 > **Workshop de R: Levando a Ciência de Dados para Todos**
 > 
